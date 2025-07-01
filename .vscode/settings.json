@@ -1,5 +1,9 @@
 {
+<<<<<<< HEAD
   "cmake.sourceDirectory": "/home/leo/Projects/tasky/linux",
   "java.compile.nullAnalysis.mode": "automatic",
+=======
+  "cmake.sourceDirectory": "/home/leo/Projects/my-app/tasky_project/linux",
+>>>>>>> master
   "java.configuration.updateBuildConfiguration": "interactive"
 }

@@ -1,6 +1,11 @@
 {
+<<<<<<< HEAD
     "name": "tasky",
     "short_name": "tasky",
+=======
+    "name": "tasky_project",
+    "short_name": "tasky_project",
+>>>>>>> master
     "start_url": ".",
     "display": "standalone",
     "background_color": "#0175C2",
