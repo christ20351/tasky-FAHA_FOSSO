@@ -1,0 +1,5 @@
+{
+  "cmake.sourceDirectory": "/home/leo/Projects/tasky/linux",
+  "java.compile.nullAnalysis.mode": "automatic",
+  "java.configuration.updateBuildConfiguration": "interactive"
+}
