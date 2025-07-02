@@ -1,3 +1,5 @@
+// ignore_for_file: deprecated_member_use
+
 import 'package:flutter/material.dart';
 import 'package:animated_text_kit/animated_text_kit.dart';
 import 'package:provider/provider.dart';
@@ -102,7 +104,7 @@ class _SplashScreenState extends State<SplashScreen>
                             width: 2,
                           ),
                         ),
-                        child: Icon(
+                        child:const Icon(
                           Icons.task_alt,
                           size: 80,
                           color: Colors.white,
